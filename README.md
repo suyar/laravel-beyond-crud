@@ -19,7 +19,7 @@ LARAVEL CRUD 之外
 # 目录
 
 - [前言（Foreword）](./chapters/foreword.md)
-- [引子（Preface）](./chapters/preface.md)
+- [开篇（Preface）](./chapters/preface.md)
 - [0x01 面向领域的 Laravel（Domain oriented Laravel）](./chapters/0x01.md)
 - [0x02 数据的使用（Working with data）](./chapters/0x02.md)
 - [0x03 行为（Actions）](./chapters/0x03.md)
