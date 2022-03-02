@@ -11,6 +11,7 @@ LARAVEL CRUD 之外
 - 审查： Adriaan Marain, Stephen Moon, Wouter Brouwers
 - 设计 & 排版：Sebastian De Deyne, Willem Van Bockstal
 - 版本：2bdf702-3
+- 翻译：[suyar](https://github.com/suyar)
 
 这本书是 Spatie 团队在过去三年吸取的教训和精华：Adriaan, Alex, Brent, Jef, Freek, Rias, Ruben, Sebastian, Willem, and Wouter.
 
