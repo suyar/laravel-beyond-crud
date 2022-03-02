@@ -22,7 +22,7 @@ LARAVEL CRUD 之外
 - [开篇（Preface）](./chapters/preface.md)
 - [0x01 面向领域的 Laravel（Domain oriented Laravel）](./chapters/0x01.md)
 - [0x02 数据的使用（Working with data）](./chapters/0x02.md)
-- [0x03 行为（Actions）](./chapters/0x03.md)
+- [0x03 动作（Actions）](./chapters/0x03.md)
 - [0x04 模型（Models）](./chapters/0x04.md)
 - [0x05 状态（States）](./chapters/0x05.md)
 - [0x06 枚举（Enums）](./chapters/0x06.md)
