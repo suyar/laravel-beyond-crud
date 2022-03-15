@@ -33,5 +33,5 @@ LARAVEL CRUD 之外
 - [0x10 视图模型（View models）](./chapters/0x10.md)
 - [0x11 HTTP 查询（HTTP queries）](./chapters/0x11.md)
 - [0x12 作业（Jobs）](./chapters/0x12.md)
-- [0x13 写在最后（In closing）](./chapters/0x13.md)
-- [0x14 脚注（Footnotes）](./chapters/0x14.md)
+- [尾言（In closing）](./chapters/in-closing.md)
+- [脚注（Footnotes）](./chapters/footnotes.md)
