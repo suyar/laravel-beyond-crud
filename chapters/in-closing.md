@@ -1,4 +1,4 @@
-# 写在最后（In closing）
+# 尾言（In closing）
 
 “When will the book be complete?” � I kept asking myself this question these past few months. As I wrote, more topics popped into my head, and so the book grew. However, at some point I'd have to consider it finished, otherwise you would have never been able to read it.
 
