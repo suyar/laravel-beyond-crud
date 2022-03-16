@@ -1,86 +1,86 @@
 # 脚注（Footnotes）
 
-In this chapter I'd like to list all the sources of inspiration that shaped my vision over the years on code architecture. These resources influenced the writing of this book.
+在这一章中，我想列出多年来塑造我对代码架构的看法的所有灵感来源。这些资源影响了本书的写作。
 
-As you know, most ideas I've written about aren't my own. I built upon the great work of several developers and years of knowledge. Now that you've finished this book, there's still lots of great material that you can read, watch or learn.
+如你所知，我所写的大多数想法都不是我自己的。我是在几个开发人员的优秀工作和多年积累的知识基础上写的。现在你已经读完了这本书，还有很多优秀的资料可以让你阅读、观看或学习。
 
-## Gary Bernhardt's thoughts on type systems
+## Gary Bernhardt 关于类型系统的想法（Gary Bernhardt's thoughts on type systems）
 
 [https://www.destroyallsoftware.com/talks/ideology](https://www.destroyallsoftware.com/talks/ideology)
 
-Not everyone shares my preference for strong type systems these days. Gary Bernhardt has a fantastic talk about the differences between these two groups of people.
+现在不是每个人都和我一样喜欢强类型系统。Gary Bernhardt 有一个关于这两类人之间差异的精彩演讲。
 
-## Matthias Noback on the difference between value objects and DTOs
+## Matthias Noback 谈论值对象和 DTO 的区别（Matthias Noback on the difference between value objects and DTOs）
 
 [https://github.com/spatie/data-transfer-object/issues/17](https://github.com/spatie/data-transfer-object/issues/17)
 
-Originally, I called DTOs "Value Objects", which have a slightly different meaning. Matthias was so friendly to jump into a GitHub thread to discuss the differences.
+起初，我把 DTO 称为『值对象』，其含义略有不同。Matthias 非常友好地打开一个 GitHub thread 来讨论这些区别。
 
-## Alan Kay's vision of OOP
+## Alan Kay 对 OOP 的看法（Alan Kay's vision of OOP）
 
 [https://www.youtube.com/watch?v=oKg1hTOQXoY](https://www.youtube.com/watch?v=oKg1hTOQXoY)
 
-Alan Kay, who invented the term OOP, explains his original vision of "objectoriented". This talk highly influenced how I think about programming in an OO language.
+Alan Kay，这个 `OOP` 的提出者解释了他对『面向对象』最初的看法。这个讲座高度影响了我对使用面向对象（OO）语言编程的思考。
 
-## Refactoring to actions by Freek Van der Herten
+## Freek Van der Herten 写的用 Action 重构（Refactoring to actions by Freek Van der Herten）
 
 [https://freek.dev/1371-refactoring-to-actions](https://freek.dev/1371-refactoring-to-actions)
 
-Over the years, we applied the principles described in this book in the projects of Spatie; Freek explores how to refactor old projects to a domainoriented design.
+这些年来，我们在 Spatie 的项目中应用了本书所描述的原则；Freek 探讨了如何将老项目重构为面向领域的设计。
 
-## Martin Fowler on transaction scripts
+## Martin Fowler 谈论事务脚本（Martin Fowler on transaction scripts）
 
 [https://martinfowler.com/eaaCatalog/transactionScript.html](https://martinfowler.com/eaaCatalog/transactionScript.html)
 
-Transaction scripts, described by Martin Fowler, are the basis of actions.
+由 Martin Fowler 描述的事务脚本是 Action 的基础。
 
-## Martin Fowler on anemic domain models
+## Martin Fowler 谈论贫血领域模型（Martin Fowler on anemic domain models）
 
 [https://martinfowler.com/bliki/AnemicDomainModel.html](https://martinfowler.com/bliki/AnemicDomainModel.html)
 
-Martin Fowler also writes about anemic models, and how it's an anti-pattern. My vision leans closer to Alan Kay's: represent processes and data separately, and have them work together.
+Martin Fowler 也写了关于贫血模型的文章，以及它是如何成为一种反模式的（anti-pattern）。我的观点更倾向于 Alan Kay 的观点：分别表示过程和数据，并让它们一起工作。
 
-## Custom eloquent collections by Tim MacDonald
+## Tim MacDonald 写的自定义 eloquent 集合（Custom eloquent collections by Tim MacDonald）
 
 [https://timacdonald.me/giving-collections-a-voice/](https://timacdonald.me/giving-collections-a-voice/)
 
-Tim MacDonald gave the inspiration about using custom eloquent collections; a pattern we still enjoy to this day.
+Tim MacDonald 给出了关于使用定制 eloquent 集合的灵感；这种模式我们至今仍然喜欢。
 
-## Dedicated query builders by Tim MacDonald
+## Tim MacDonald 写的专用查询构造器（Dedicated query builders by Tim MacDonald）
 
 [https://timacdonald.me/dedicated-eloquent-model-query-builders](https://timacdonald.me/dedicated-eloquent-model-query-builders)
 
-Tim also wrote more in-depth about dedicated query builders.
+Tim 还更深入地写了关于专用查询构造器的文章。
 
-## Christopher Okhravi explains state machines in depth
+## Christopher Okhravi 深入解释了状态机（Christopher Okhravi explains state machines in depth）
 
 [https://www.youtube.com/watch?v=N12L5D78MAA](https://www.youtube.com/watch?v=N12L5D78MAA)
 
-If you're still unsure about the state pattern, Christopher Okhravi explains it thoroughly in this video.
+如果你对状态模式仍不太理解，Christopher Okhravi 在这段视频中进行了详尽的解释。
 
-## Symfony's workflow package to build complex state machines
+## Symfony 的工作流程包用于构建复杂的状态机（Symfony's workflow package to build complex state machines）
 
 [https://symfony.com/doc/current/workflow/workflow-and-state-machine.html](https://symfony.com/doc/current/workflow/workflow-and-state-machine.html)
 
-Symfony's workflow package is an excellent alternative to the simplified state package I wrote.
+Symfony 的工作流程包是我写的简化状态包的一个很好的替代品。
 
-##  Sandi Metz's vision of truly OO code
+## Sandi Metz 对真正的 OO 代码的看法（Sandi Metz's vision of truly OO code）
 
 [https://www.youtube.com/watch?v=29MAL8pJImQ](https://www.youtube.com/watch?v=29MAL8pJImQ)
 
-Another eye-opener when it comes to object-oriented programming: Sandi Metz shows how to get rid of all if statements, and what it has to do with OO.
+在谈到面向对象的编程时，又一次大开眼界：Sandi Metz 展示了如何摆脱所有的 if 语句，以及它与 OO 的关系。
 
-## Freek gets started with domain-oriented Laravel
+## Freek 写的开始使用面向领域的 Laravel（Freek gets started with domain-oriented Laravel）
 
 [https://freek.dev/1486-getting-started-with-domain-oriented-laravel](https://freek.dev/1486-getting-started-with-domain-oriented-laravel)
 
-Another practical introduction to domain-oriented Laravel by Freek.
+另一个由 Freek 撰写的面向领域的 Laravel 的实用介绍。
 
-## Tighten's approach to model factories
+## Tighten 对模型工厂的做法（Tighten's approach to model factories）
 
 [https://tighten.co/blog/tidy-up-your-tests-with-class-based-model-factories](https://tighten.co/blog/tidy-up-your-tests-with-class-based-model-factories)
 
-Both Spatie and Tighten came up with a similar approach to improved test factories at the same time. It's interesting to read about their approach as well.
+Spatie 和 Tighten 同时提出了一个类似的方法来改进测试工厂。阅读他们的方法也很有趣。
 
 ## Spatie packages
 
