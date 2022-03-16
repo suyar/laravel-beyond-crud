@@ -1,24 +1,24 @@
 # 尾言（In closing）
 
-“When will the book be complete?” � I kept asking myself this question these past few months. As I wrote, more topics popped into my head, and so the book grew. However, at some point I'd have to consider it finished, otherwise you would have never been able to read it.
+『这本书什么时候能完成？』 —— 在过去的几个月里，我一直在问自己这个问题。随着我的写作，更多的主题在我的脑海中不断冒出来，因此这本书也越写越多。然而，在某些时候，我不得不考虑完结它，否则你将永远无法阅读它。
 
-I think we've arrived at that point.
+我想我们已经到了这个地步。
 
-I think I've written about all the things I wanted to write about, though if you'd ask me about any of these topics in person, we could probably still fill hours of conversation.
+我想我已经写了所有我想写的东西，尽管如果你当面问我这些话题中的任何一个，我们可能仍然可以充满几个小时的谈话。
 
-I kept the main goal of this book in mind though: it's not about learning patterns or concrete solutions, it's more about learning a mindset. And by doing so I have given you lots of patterns and solutions, but my hope is that, above all, you've learned to critically look at the architecture of your projects, and can start thinking about ways to improve them over time.
+但我一直牢记本书的主要目的：它不是关于学习设计模式或具体的解决方案，而是关于学习一种思维方式。通过这样做，我给你展示了很多设计模式和解决方案，但我希望最重要的是，你已经学会批判性（critically look at）地看待你的项目的架构，并能开始思考如何随着时间的推移来改进它们。
 
-I hope that I was able to share my colleagues' and my own thought process with you: I wanted to include you in all the conversations and discussions we had over the past few years and explain why we came to the solutions we use today. And I hope that you can go through the same process with your colleagues, to find the best solutions for your problems.
+我希望我能够与你们分享我的同事和我自己的思考过程。我想把你们纳入我们在过去几年中进行的所有对话和讨论中，并解释我们为什么会得出我们今天使用的解决方案。我希望你们能与你们的同事经历同样的过程，为你们的问题找到最佳解决方案。
 
-In a way, I've been working on this book for years now: first at my previous job where I discovered my passion for code architecture and began to blog about it; at Spatie where I was able to apply all that knowledge, and learn from my colleagues while doing so; then came the blog posts before finally writing this book.
+在某种程度上，我已经为些这本书花了有些年了：首先是在我以前的工作中，我发现了我对代码架构的热情，并开始写博客；在 Spatie，我能够应用所有这些知识，并在此过程中向我的同事学习；然后是在最终写这本书之前的博客文章。
 
-And so it has come to an end, at least for now, because honestly there's lots of stuff I still want to write about. For example, I've been venturing into event sourced applications and micro services the past few months; I also feel that there's lots to write about modern PHP as well. Ideas for the future? Who knows?
+所以它已经结束了，至少现在是这样，因为说实话，我还有很多东西想写。例如，在过去的几个月里，我一直在探索基于事件（event sourced）的应用程序和微服务；我也觉得有很多关于现代 PHP 的内容可以写。对未来的想法？谁知道呢？
 
-So in closing, I'd like to thank you for reading this book, and I truly hope I was able to share my thought process with you, and that it might help you in your future projects. I'd also like to thank Spatie for giving me the opportunity to work on this book, as well as my wife who has supported me during this whole process.
+所以最后，我想感谢你阅读这本书，我真的希望我能够与你分享我的思考过程，并希望它可能对你的未来项目有所帮助。我还要感谢 Spatie 给我机会来写这本书，以及在整个过程中一直支持我的妻子。
 
-Finally there's one more chapter after this one: a collection of resources that inspired and guided me throughout the years, and influenced the vision I shared in this book tremendously. I hope the knowledge of all those great programmers will also help you, the same way it did for me.
+最后，在这一章之后还有一章：收集了多年来启发和指导我的资源，对我在本书中分享的愿景产生了巨大的影响。我希望所有这些伟大的程序员的知识也能帮助你，就像它对我一样。
 
-Thanks.
+谢谢！
 
 ## 链接
 
