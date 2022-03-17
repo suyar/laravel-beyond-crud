@@ -37,4 +37,4 @@
 
 - [目录](../README.md)
 - 上一章：
-- 下一章: [开篇（Preface）](preface.md)
+- 下一章: [序文（Preface）](preface.md)
