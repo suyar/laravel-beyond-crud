@@ -1,20 +1,20 @@
 # 脚注（Footnotes）
 
-在这一章中，我想列出多年来塑造我对代码架构的看法的所有灵感来源。这些资源影响了本书的写作。
+在这一章中，我想列出多年来塑造我对代码架构思想的所有灵感来源。这些资源对本书的写作产生了深刻的影响。
 
-如你所知，我所写的大多数想法都不是我自己的。我是在几个开发人员的优秀工作和多年积累的知识基础上写的。现在你已经读完了这本书，还有很多优秀的资料可以让你阅读、观看或学习。
+如你所知，我所写的大多数想法都不是我自己的。我是在与几个开发人员友好工作中和多年积累的知识基础上写的。现在你已经读完了这本书，还有很多优秀的资料可以让你阅读、观看和学习。
 
-## Gary Bernhardt 关于类型系统的想法（Gary Bernhardt's thoughts on type systems）
+## Gary Bernhardt 对类型系统的看法（Gary Bernhardt's thoughts on type systems）
 
 [https://www.destroyallsoftware.com/talks/ideology](https://www.destroyallsoftware.com/talks/ideology)
 
-现在不是每个人都和我一样喜欢强类型系统。Gary Bernhardt 有一个关于这两类人之间差异的精彩演讲。
+不是每个人都和我一样喜欢强类型系统。Gary Bernhardt 有一个关于这两类人之间差异的精彩演讲。
 
 ## Matthias Noback 谈论值对象和 DTO 的区别（Matthias Noback on the difference between value objects and DTOs）
 
 [https://github.com/spatie/data-transfer-object/issues/17](https://github.com/spatie/data-transfer-object/issues/17)
 
-起初，我把 DTO 称为『值对象』，其含义略有不同。Matthias 非常友好地打开一个 GitHub thread 来讨论这些区别。
+起初，我把 DTO 称为『值对象』，但其含义略有不同。Matthias 非常友好地打开一个 GitHub thread 来讨论这些区别。
 
 ## Alan Kay 对 OOP 的看法（Alan Kay's vision of OOP）
 
@@ -44,13 +44,13 @@ Martin Fowler 也写了关于贫血模型的文章，以及它是如何成为一
 
 [https://timacdonald.me/giving-collections-a-voice/](https://timacdonald.me/giving-collections-a-voice/)
 
-Tim MacDonald 给出了关于使用定制 eloquent 集合的灵感；这种模式我们至今仍然喜欢。
+Tim MacDonald 给出了关于定制 eloquent 集合的灵感；这种模式我们至今仍然喜欢。
 
-## Tim MacDonald 写的专用查询构造器（Dedicated query builders by Tim MacDonald）
+## Tim MacDonald 写的独立查询构造器（Dedicated query builders by Tim MacDonald）
 
 [https://timacdonald.me/dedicated-eloquent-model-query-builders](https://timacdonald.me/dedicated-eloquent-model-query-builders)
 
-Tim 还更深入地写了关于专用查询构造器的文章。
+Tim 还更深入地写了关于独立查询构造器的文章。
 
 ## Christopher Okhravi 深入解释了状态机（Christopher Okhravi explains state machines in depth）
 
@@ -68,13 +68,13 @@ Symfony 的工作流程包是我写的简化状态包的一个很好的替代品
 
 [https://www.youtube.com/watch?v=29MAL8pJImQ](https://www.youtube.com/watch?v=29MAL8pJImQ)
 
-在谈到面向对象的编程时，又一次大开眼界：Sandi Metz 展示了如何摆脱所有的 if 语句，以及它与 OO 的关系。
+在谈到面向对象的编程时，又一次大开眼界：Sandi Metz 展示了如何摆脱所有的 if 语句，以及这些与 OO 有什么关系。
 
 ## Freek 写的开始使用面向领域的 Laravel（Freek gets started with domain-oriented Laravel）
 
 [https://freek.dev/1486-getting-started-with-domain-oriented-laravel](https://freek.dev/1486-getting-started-with-domain-oriented-laravel)
 
-另一个由 Freek 撰写的面向领域的 Laravel 的实用介绍。
+由 Freek 撰写的另一个面向领域的 Laravel 的实用介绍。
 
 ## Tighten 对模型工厂的做法（Tighten's approach to model factories）
 
@@ -86,7 +86,7 @@ Spatie 和 Tighten 同时提出了一个类似的方法来改进测试工厂。�
 
 [https://spatie.be/open-source](https://spatie.be/open-source)
 
-Over the past years, numerous packages have been written at our office to improve our domain-oriented Laravel workflow.
+在过去的几年里，我们工作室编写了许多软件包用于改进面向领域的 Laravel 工作流程。
 
 - [spatie/data-transfer-object](https://github.com/spatie/data-transfer-object)
 - [spatie/laravel-query-builder](https://github.com/spatie/laravel-query-builder)
