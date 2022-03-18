@@ -23,5 +23,5 @@
 ## 链接
 
 - [目录](../README.md)
-- 上一章：[作业（Jobs）](0x12.md)
+- 上一章：[任务（Jobs）](0x12.md)
 - 下一章: [脚注（Footnotes）](footnotes.md)
